@@ -1,2 +1,3 @@
 Đây là nhánh main. Đã sửa đổi
 ok
+merge nhanh 3 vào sẽ bị conflic
